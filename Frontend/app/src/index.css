@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Astra';
+  src: url('../fonts/PT-Astra-Sans_Regular.ttf');
+}
+
+:root {
+  --main_color: #163E6C;
+  --secondary_color: #D20A11;
+  --bg_color: #EBE6D6;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Astra';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+}
+
